@@ -96,6 +96,7 @@ Register allocation strategies
 It helps identify inefficient intermediate code generation and improves overall compiler performance.
 
 Files Included
+
 RA2311026050242_Tippluri Jahnavi_HoT.c
 RA2311026050242_Tippluri Jahnavi.png
 RA2311026050242_Tippluri Jahnavi.pdf
